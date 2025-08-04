@@ -36,3 +36,4 @@ Sinta-se à vontade para sugerir melhorias, reportar bugs ou adicionar novas fun
 ## 📜 Licença
 
 Este projeto está sob a licença **MIT**.
+https://jogo-do-numero-secreto-gilt-two.vercel.app/
